@@ -25,7 +25,7 @@ Choose a suitable data storage solution, such as a relational database or a data
 and integrated data. Implement the necessary mechanisms to load the processed data into the chosen 
 storage system, ensuring data integrity and efficient retrieval.
 
-Documentation and Monitoring:
+• Documentation and Monitoring:
 Document the pipeline architecture, data workflows, and dependencies. Create clear instructions for 
 maintaining and updating the pipeline.
 
